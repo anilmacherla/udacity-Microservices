@@ -1,7 +1,8 @@
+[![<ORG_NAME>](https://circleci.com/gh/anilmacherla/udacity-Microservices.svg?style=svg)](https://github.com/anilmacherla/udacity-Microservices)
 
 Summary : 
 
-This project goal is to operationalize microservices in this case machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications.This will showcase the abilities to operationalize production microservices.
+The project goal is to operationalize microservices, in this case machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications.This will showcase the abilities to operationalize production microservices.
 
 Info about the files : 
 
